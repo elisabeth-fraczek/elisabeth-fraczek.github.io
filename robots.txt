@@ -1,2 +1,5 @@
+# Regeln für Suchmaschinen
 User-agent: *
+
+# Die Freiburger Bewerbungsseite von der Indexierung ausnehmen.
 Disallow: /bewerbung-freiburg/
