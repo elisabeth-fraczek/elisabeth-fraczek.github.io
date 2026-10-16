@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /bewerbung-dwd/
+Disallow: /bewerbung-freiburg/
