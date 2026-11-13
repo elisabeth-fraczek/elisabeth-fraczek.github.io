@@ -2,4 +2,4 @@
 User-agent: *
 
 # Bewerbungsseite von der Indexierung ausnehmen.
-Disallow: /bewerbung-freiburg/
+Disallow: /senckenberg/

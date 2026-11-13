@@ -1,0 +1,93 @@
+[
+  {
+    "topic": "Tracking wildlife",
+    "question": "Name a method or device used to track wildlife.",
+    "hint": "Researchers can use light, sound or satellites to work out where an animal has been.",
+    "answers": [
+      {"article": "GPS animal tracking", "aliases": ["GPS", "GPS tracking", "GPS tag", "GPS collar", "satellite GPS"]},
+      {"article": "Bird ringing", "aliases": ["bird banding", "ringing", "banding"]},
+      {"article": "Argos (satellite system)", "aliases": ["Argos", "Argos tracking", "Argos satellite"]},
+      {"article": "Light level geolocator", "aliases": ["geolocator", "light logger", "light-level geolocator", "geolocation tag"]},
+      {"article": "Acoustic tag", "aliases": ["acoustic tracking", "acoustic telemetry", "acoustic transmitter"]},
+      {"article": "Wildlife radio telemetry", "aliases": ["radio telemetry", "radio tracking", "VHF", "VHF tracking", "radiotelemetry", "radio tag", "telemetry"]}
+    ]
+  },
+  {
+    "topic": "Movement and navigation",
+    "question": "Name a concept that describes how animals move or find their way.",
+    "hint": "Think of changes in elevation or depth, or how animals sense direction.",
+    "answers": [
+      {"article": "Animal migration", "aliases": ["migration", "seasonal migration"]},
+      {"article": "Diel vertical migration", "aliases": ["daily vertical migration", "vertical migration", "DVM"]},
+      {"article": "Altitudinal migration", "aliases": ["altitude migration", "elevational migration"]},
+      {"article": "Biological dispersal", "aliases": ["dispersal", "natal dispersal", "animal dispersal"]},
+      {"article": "Magnetoreception", "aliases": ["magnetic sense", "magnetic navigation"]},
+      {"article": "Philopatry", "aliases": ["site fidelity", "natal philopatry"]}
+    ]
+  },
+  {
+    "topic": "Environmental change",
+    "question": "Name an environmental pressure that can change how animals move.",
+    "hint": "Think about the loss of a route or changes to what an animal can hear or see.",
+    "answers": [
+      {"article": "Climate change", "aliases": ["global warming", "changing climate"]},
+      {"article": "Drought", "aliases": ["droughts", "water scarcity"]},
+      {"article": "Habitat fragmentation", "aliases": ["fragmentation", "fragmented habitats"]},
+      {"article": "Light pollution", "aliases": ["artificial light", "artificial light at night", "ALAN"]},
+      {"article": "Noise pollution", "aliases": ["anthropogenic noise", "traffic noise", "human noise"]},
+      {"article": "Deforestation", "aliases": ["forest loss", "forest clearing", "clearcutting"]}
+    ]
+  },
+  {
+    "topic": "Birds of prey",
+    "question": "Name a bird of prey found in Germany.",
+    "hint": "Think of a kite with a forked tail, or a small falcon that hovers.",
+    "answers": [
+      {"article": "Common buzzard", "aliases": ["Mäusebussard", "maeusebussard", "Buteo buteo", "buzzard"]},
+      {"article": "Red kite", "aliases": ["Rotmilan", "Milvus milvus"]},
+      {"article": "Black kite", "aliases": ["Schwarzmilan", "Milvus migrans"]},
+      {"article": "Eurasian sparrowhawk", "aliases": ["Sperber", "Accipiter nisus", "sparrowhawk"]},
+      {"article": "Common kestrel", "aliases": ["Eurasian kestrel", "Turmfalke", "Falco tinnunculus", "kestrel"]},
+      {"article": "European honey buzzard", "aliases": ["Wespenbussard", "Pernis apivorus", "honey buzzard"]}
+    ]
+  },
+  {
+    "topic": "Earth observation",
+    "question": "Name a tool, programme or technique for mapping habitats.",
+    "hint": "Think of satellites, laser measurements or an index of vegetation greenness.",
+    "answers": [
+      {"article": "Remote sensing", "aliases": ["Earth observation"]},
+      {"article": "Geographic information system", "aliases": ["GIS", "geospatial information system", "geographical information system"]},
+      {"article": "Copernicus Programme", "aliases": ["Copernicus", "EU Copernicus", "Copernicus program"]},
+      {"article": "Sentinel-2", "aliases": ["Sentinel 2", "Sentinel II"]},
+      {"article": "Normalized difference vegetation index", "aliases": ["NDVI", "normalised difference vegetation index"]},
+      {"article": "Lidar", "aliases": ["laser scanning", "laser mapping"]}
+    ]
+  },
+  {
+    "topic": "Connecting habitats",
+    "question": "Name a conservation measure that can help keep habitats connected.",
+    "hint": "Think of a route through fragmented habitat or a way over a road.",
+    "answers": [
+      {"article": "Wildlife corridor", "aliases": ["habitat corridor", "ecological corridor", "corridor"]},
+      {"article": "Wildlife crossing", "aliases": ["wildlife overpass", "wildlife underpass", "animal crossing", "green bridge", "ecoduct"]},
+      {"article": "Habitat restoration", "aliases": ["restoration", "ecological restoration"]},
+      {"article": "Protected area", "aliases": ["nature reserve", "protected areas", "reserve"]},
+      {"article": "Rewilding (conservation biology)", "aliases": ["rewilding"]},
+      {"article": "Habitat conservation", "aliases": ["habitat protection", "habitat preservation"]}
+    ]
+  },
+  {
+    "topic": "Why movement matters",
+    "question": "Name an ecological process or interaction that depends on animals moving.",
+    "hint": "Moving animals can carry pollen, seeds and nutrients or encounter their prey.",
+    "answers": [
+      {"article": "Pollination", "aliases": ["pollinating", "animal pollination", "zoophily"]},
+      {"article": "Seed dispersal", "aliases": ["seed spreading", "animal seed dispersal", "zoochory"]},
+      {"article": "Gene flow", "aliases": ["genetic exchange", "gene movement"]},
+      {"article": "Nutrient cycle", "aliases": ["nutrient cycling", "nutrient transport"]},
+      {"article": "Predation", "aliases": ["predator prey interaction", "hunting"]},
+      {"article": "Foraging", "aliases": ["food searching", "feeding behaviour", "feeding behavior"]}
+    ]
+  }
+]

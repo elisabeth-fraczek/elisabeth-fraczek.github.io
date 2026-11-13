@@ -1,0 +1,217 @@
+{
+  "project": "en.wikipedia",
+  "start": "2026-08-01",
+  "end": "2026-10-31",
+  "articles": {
+    "Acoustic tag": {
+      "title": "Acoustic tag",
+      "url": "https://en.wikipedia.org/wiki/Acoustic_tag",
+      "views": 370
+    },
+    "Altitudinal migration": {
+      "title": "Altitudinal migration",
+      "url": "https://en.wikipedia.org/wiki/Altitudinal_migration",
+      "views": 570
+    },
+    "Animal migration": {
+      "title": "Animal migration",
+      "url": "https://en.wikipedia.org/wiki/Animal_migration",
+      "views": 5521
+    },
+    "Argos (satellite system)": {
+      "title": "Argos (satellite system)",
+      "url": "https://en.wikipedia.org/wiki/Argos_(satellite_system)",
+      "views": 1125
+    },
+    "Biological dispersal": {
+      "title": "Biological dispersal",
+      "url": "https://en.wikipedia.org/wiki/Biological_dispersal",
+      "views": 2779
+    },
+    "Bird ringing": {
+      "title": "Bird ringing",
+      "url": "https://en.wikipedia.org/wiki/Bird_ringing",
+      "views": 4775
+    },
+    "Black kite": {
+      "title": "Black kite",
+      "url": "https://en.wikipedia.org/wiki/Black_kite",
+      "views": 27286
+    },
+    "Climate change": {
+      "title": "Climate change",
+      "url": "https://en.wikipedia.org/wiki/Climate_change",
+      "views": 154411
+    },
+    "Common buzzard": {
+      "title": "Common buzzard",
+      "url": "https://en.wikipedia.org/wiki/Common_buzzard",
+      "views": 50505
+    },
+    "Common kestrel": {
+      "title": "Common kestrel",
+      "url": "https://en.wikipedia.org/wiki/Common_kestrel",
+      "views": 30320
+    },
+    "Copernicus Programme": {
+      "title": "Copernicus Programme",
+      "url": "https://en.wikipedia.org/wiki/Copernicus_Programme",
+      "views": 9467
+    },
+    "Deforestation": {
+      "title": "Deforestation",
+      "url": "https://en.wikipedia.org/wiki/Deforestation",
+      "views": 32665
+    },
+    "Diel vertical migration": {
+      "title": "Diel vertical migration",
+      "url": "https://en.wikipedia.org/wiki/Diel_vertical_migration",
+      "views": 6845
+    },
+    "Drought": {
+      "title": "Drought",
+      "url": "https://en.wikipedia.org/wiki/Drought",
+      "views": 28028
+    },
+    "Eurasian sparrowhawk": {
+      "title": "Eurasian sparrowhawk",
+      "url": "https://en.wikipedia.org/wiki/Eurasian_sparrowhawk",
+      "views": 32873
+    },
+    "European honey buzzard": {
+      "title": "European honey buzzard",
+      "url": "https://en.wikipedia.org/wiki/European_honey_buzzard",
+      "views": 15468
+    },
+    "Foraging": {
+      "title": "Foraging",
+      "url": "https://en.wikipedia.org/wiki/Foraging",
+      "views": 8452
+    },
+    "GPS animal tracking": {
+      "title": "GPS animal tracking",
+      "url": "https://en.wikipedia.org/wiki/GPS_animal_tracking",
+      "views": 1091
+    },
+    "Gene flow": {
+      "title": "Gene flow",
+      "url": "https://en.wikipedia.org/wiki/Gene_flow",
+      "views": 5876
+    },
+    "Geographic information system": {
+      "title": "Geographic information system",
+      "url": "https://en.wikipedia.org/wiki/Geographic_information_system",
+      "views": 30752
+    },
+    "Habitat conservation": {
+      "title": "Habitat conservation",
+      "url": "https://en.wikipedia.org/wiki/Habitat_conservation",
+      "views": 1192
+    },
+    "Habitat fragmentation": {
+      "title": "Habitat fragmentation",
+      "url": "https://en.wikipedia.org/wiki/Habitat_fragmentation",
+      "views": 4821
+    },
+    "Habitat restoration": {
+      "title": "Ecological restoration",
+      "url": "https://en.wikipedia.org/wiki/Ecological_restoration",
+      "views": 2871
+    },
+    "Lidar": {
+      "title": "Lidar",
+      "url": "https://en.wikipedia.org/wiki/Lidar",
+      "views": 76673
+    },
+    "Light level geolocator": {
+      "title": "Light level geolocator",
+      "url": "https://en.wikipedia.org/wiki/Light_level_geolocator",
+      "views": 475
+    },
+    "Light pollution": {
+      "title": "Light pollution",
+      "url": "https://en.wikipedia.org/wiki/Light_pollution",
+      "views": 17721
+    },
+    "Magnetoreception": {
+      "title": "Magnetoreception",
+      "url": "https://en.wikipedia.org/wiki/Magnetoreception",
+      "views": 15182
+    },
+    "Noise pollution": {
+      "title": "Noise pollution",
+      "url": "https://en.wikipedia.org/wiki/Noise_pollution",
+      "views": 19430
+    },
+    "Normalized difference vegetation index": {
+      "title": "Normalized difference vegetation index",
+      "url": "https://en.wikipedia.org/wiki/Normalized_difference_vegetation_index",
+      "views": 7971
+    },
+    "Nutrient cycle": {
+      "title": "Nutrient cycle",
+      "url": "https://en.wikipedia.org/wiki/Nutrient_cycle",
+      "views": 3867
+    },
+    "Philopatry": {
+      "title": "Philopatry",
+      "url": "https://en.wikipedia.org/wiki/Philopatry",
+      "views": 3460
+    },
+    "Pollination": {
+      "title": "Pollination",
+      "url": "https://en.wikipedia.org/wiki/Pollination",
+      "views": 13312
+    },
+    "Predation": {
+      "title": "Predation",
+      "url": "https://en.wikipedia.org/wiki/Predation",
+      "views": 26814
+    },
+    "Protected area": {
+      "title": "Protected area",
+      "url": "https://en.wikipedia.org/wiki/Protected_area",
+      "views": 6020
+    },
+    "Red kite": {
+      "title": "Red kite",
+      "url": "https://en.wikipedia.org/wiki/Red_kite",
+      "views": 35170
+    },
+    "Remote sensing": {
+      "title": "Remote sensing",
+      "url": "https://en.wikipedia.org/wiki/Remote_sensing",
+      "views": 16222
+    },
+    "Rewilding (conservation biology)": {
+      "title": "Rewilding",
+      "url": "https://en.wikipedia.org/wiki/Rewilding",
+      "views": 5439
+    },
+    "Seed dispersal": {
+      "title": "Seed dispersal",
+      "url": "https://en.wikipedia.org/wiki/Seed_dispersal",
+      "views": 7135
+    },
+    "Sentinel-2": {
+      "title": "Sentinel-2",
+      "url": "https://en.wikipedia.org/wiki/Sentinel-2",
+      "views": 12561
+    },
+    "Wildlife corridor": {
+      "title": "Wildlife corridor",
+      "url": "https://en.wikipedia.org/wiki/Wildlife_corridor",
+      "views": 4164
+    },
+    "Wildlife crossing": {
+      "title": "Wildlife crossing",
+      "url": "https://en.wikipedia.org/wiki/Wildlife_crossing",
+      "views": 14764
+    },
+    "Wildlife radio telemetry": {
+      "title": "Wildlife radio telemetry",
+      "url": "https://en.wikipedia.org/wiki/Wildlife_radio_telemetry",
+      "views": 735
+    }
+  }
+}
