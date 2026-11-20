@@ -1,5 +1,6 @@
 # Regeln für Suchmaschinen
 User-agent: *
 
-# Bewerbungsseite von der Indexierung ausnehmen.
+# Bewerbungsseiten vom Crawling ausschließen
 Disallow: /senckenberg/
+Disallow: /DKFZ/
